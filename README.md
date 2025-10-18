@@ -1,2 +1,2 @@
-# My GitHub Project
-This is a demo project for our Git and GitHub activity.
+# GitHub-Intro
+for Git and GitHub
